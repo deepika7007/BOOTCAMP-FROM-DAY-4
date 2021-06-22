@@ -1,0 +1,52 @@
+The List value after adding + 2 to every element is   2
+The List value after adding + 2 to every element is   4
+The List value after adding + 2 to every element is   6
+The List value after adding + 2 to every element is   8
+The List value after adding + 2 to every element is   10
+The List value after adding + 2 to every element is   12
+The List value after adding + 2 to every element is   14
+5432
+Enter the value of 'n': 
+5
+Fibonacci Series :  0 1 1 2 3 0
+1
+153
+370
+371
+407
+The muliplication table of 7 : 
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+Enter a number: 
+3
+Positive number
+Enter the no.of days :
+736
+2  Year,  0  Weeks, and  6  Days
+
+Enter the number:
+6
+sin(x)= -0.27941549819892586
+cos(x)= 0.960170286650366
+tan(x)= -0.29100619138474915
+(sin(x)+cos(x))/tan(x)= -2.339313762405114
+Calculator
+1.Add
+2.Substract
+3.Multiply
+4.Divide
+Enterthe  Choice value(1-4): 
+3
+Enter the value of A:
+33
+Enter the value of B:
+36
+Product =  1188
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
