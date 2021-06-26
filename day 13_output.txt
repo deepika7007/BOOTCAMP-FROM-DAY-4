@@ -1,0 +1,18 @@
+True
+False
+Not matched!
+Found a match!
+Found a match!
+Not matched!
+Not matched!
+Number of length 1 to 3
+1
+12
+13
+345
+Not matched!
+Found a match!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
